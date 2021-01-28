@@ -1,0 +1,5 @@
+2017-07-19 18:56:05 :: Inserindo produto novo
+2017-07-19 18:56:05 :: SELECT max(id) FROM produto 
+2017-07-19 18:56:05 :: INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barra, data_cadastro, origem, id) VALUES ('Pendriver 512Mb', 10, 20, 40, '0000000001', '2017-07-19', 'N', 1)
+2017-07-19 18:56:05 :: SELECT max(id) FROM produto 
+2017-07-19 18:56:05 :: INSERT INTO produto (descricao, estoque, preco_custo, preco_venda, codigo_barra, data_cadastro, origem, id) VALUES ('HD 120 GB', 20, 100, 180, '0000000002', '2017-07-19', 'N', 2)
